@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_structure_sliders",
+  "info": {
+    "displayName": "slider",
+    "icon": "arrows-alt-h"
+  },
+  "options": {},
+  "attributes": {
+    "images": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

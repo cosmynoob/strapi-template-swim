@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_structure_liste_des_reseaux_sociauxes",
+  "info": {
+    "displayName": "Liste des réseaux sociaux",
+    "icon": "angry"
+  },
+  "options": {},
+  "attributes": {
+    "Facebook": {
+      "type": "string"
+    },
+    "Twitter": {
+      "type": "string"
+    },
+    "Instagram": {
+      "type": "string"
+    }
+  }
+}

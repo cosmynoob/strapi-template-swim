@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_structure_news_lists",
+  "info": {
+    "displayName": "Liste des articles",
+    "icon": "border-all",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "articles": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::article.article"
+    }
+  }
+}

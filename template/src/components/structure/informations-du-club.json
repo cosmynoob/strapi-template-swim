@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_structure_informations_du_clubs",
+  "info": {
+    "displayName": "Informations du club",
+    "icon": "arrow-up"
+  },
+  "options": {},
+  "attributes": {
+    "Adresse": {
+      "type": "text"
+    },
+    "horaires": {
+      "type": "text"
+    }
+  }
+}

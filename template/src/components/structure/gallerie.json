@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_structure_galleries",
+  "info": {
+    "displayName": "Gallerie",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "Titre": {
+      "type": "string"
+    },
+    "photos": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
